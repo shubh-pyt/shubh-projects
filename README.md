@@ -1,2 +1,2 @@
 # shubh-projects
-this is a repository where all my projects with their name telling about them will be uploaded
+My personal repository for coding practice, learning experiments, and projects built while exploring software development.
